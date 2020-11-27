@@ -1,0 +1,6 @@
+Este es un fichero markdown para R
+```{r}
+print("Hola mundo")
+print("vengo desde R")
+```
+
